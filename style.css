@@ -146,8 +146,6 @@ body{
 }
 
 .platebtn{
-    margin-bottom: 40vw;
-    margin-top: 5vw;
     background-image: linear-gradient(to right, #EB3349 0%, #F45C43  51%, #EB3349  100%);
     padding: 15px 45px;
     text-align: center;
@@ -176,8 +174,17 @@ body{
     cursor: pointer;
  }
 
- #platebtn2{
-     margin-top: 4vw;
+ #mainlink3{
+    margin-bottom: 38vw;
+}
+
+#mainlink2{
+    margin-top: 4vw;
+}
+
+ .mainlink{
+    margin-bottom: 40vw;
+    margin-top: 5vw;
  }
 
 

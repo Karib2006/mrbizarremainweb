@@ -80,6 +80,7 @@ body{
 
 #introwelcome{
     font-family: obelixpro;
+    src: url(obelix-pro/ObelixPro-cyr.ttf);
     font-size: 3.5rem;
 }
 
